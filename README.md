@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Radman Abrishami and I'm a junior student at Bilkent University.
 <!--
 **The-Curious-Guy/The-Curious-Guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
